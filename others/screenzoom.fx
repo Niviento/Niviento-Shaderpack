@@ -1,3 +1,13 @@
+//=================================================================================================
+//
+//  NVTOScreenZoom
+//  by NIVIENTO 2026
+//  Steam: https://steamcommunity.com/id/Niviento/
+//
+//  All code licensed under the MIT license
+//
+//=================================================================================================
+
 #include "ReShade.fxh"
 
 uniform float NVZ_Zoom <
